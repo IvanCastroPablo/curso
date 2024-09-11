@@ -1,0 +1,4 @@
+* 99dcf99 (HEAD -> main) Add the outcomed file from the find command of a previous exercise
+* fc9fd2a (NUEVA_RAMA) Modify the "tercero.txt" file at the end of it
+* 6e5b1e6 Add empty file to the repo
+* 2ddc0cf (origin/main) first commit
