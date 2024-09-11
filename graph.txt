@@ -1,4 +1,6 @@
-* 99dcf99 (HEAD -> main) Add the outcomed file from the find command of a previous exercise
+* 80a7652 (HEAD -> main) Commit all the files created/copied
+* 0041d24 Add a graph file that describes the contents of the master branch
+* 99dcf99 Add the outcomed file from the find command of a previous exercise
 * fc9fd2a (NUEVA_RAMA) Modify the "tercero.txt" file at the end of it
 * 6e5b1e6 Add empty file to the repo
 * 2ddc0cf (origin/main) first commit
